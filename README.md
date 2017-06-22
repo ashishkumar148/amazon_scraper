@@ -1,2 +1,4 @@
 # amazon_scraper
-Amazon scraper to collect product name and price
+Simple Amazon scraper to collect product names and prices
+
+Here's how it works : https://www.youtube.com/watch?v=ImBa4PizRXw
